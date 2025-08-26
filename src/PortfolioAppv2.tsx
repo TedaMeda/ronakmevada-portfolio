@@ -22,7 +22,6 @@ import {
   Sun,
   ArrowRight,
   Code2,
-  Download,
   ChevronDown,
 } from "lucide-react";
 import { SiCodechef, SiCodeforces, SiLeetcode } from "react-icons/si";
